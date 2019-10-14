@@ -4,7 +4,7 @@
 void encryption(char *str);
 void decryption(int *en);
 char str[500],de1[500],de2[500];
-int i,j,p,k,m,c,en[500],de[500];
+int i,j,p,k,c,en[500],de[500];
 
 int main()
 {
