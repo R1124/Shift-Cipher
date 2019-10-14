@@ -5,6 +5,6 @@ Definition: Shift Cipher is one of the earliest and the simplest cryptosystems. 
 An example of encrypting the plaintext by shifing each letter by 3 places. Which is called Caesar Cipher, used by Julius Caesar, one of the earliest user of cryptography.
 
 
-Encrytion : f(p)  = (p+k) mod 26.
+Encrytion: f(p) = (p+k) mod 26.
 
 Decryption: f-1(p)= (p-k) mod 26.
