@@ -9,7 +9,7 @@ int i,j,p,k,c,en[500],de[500];
 int main()
 {
 
-    printf("Please enter the sentence: ");
+    printf("Please enter the sentence (max 500 words): ");
     gets(str);
     printf("Please enter the value of k: ");
     scanf("%d",&k);
